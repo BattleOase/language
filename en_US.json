@@ -1,64 +1,71 @@
 {
-	"name": "English",
-	"localeCode": "en_US",
-	"PREFIX": "§6§lBattle§l§eUnity §r§8»§7",
-    "publicParams": {
-        "{BEDWARS}": "Bedwars"
-    },
-	"values": {
-                "BedWars-message-bedBreak": "{PLAYER} &czerstörte das Bett von {TEAM}&r&c.",
-                "BedWars-message-yourBed": "Dein Bett wurde zerstört!",
+  "name": "English",
+  "localeCode": "en_US",
+  "PREFIX": "§6§lBattle§l§eUnity §r§8»§7",
+  "publicParams": {
+    "{BEDWARS}": "Bedwars"
+  },
+  "values": {
+    "BedWars-message-bedBreak": "{PLAYER} &cdestroyed the bed from {TEAM}&r&c.",
+    "BedWars-message-yourBed": "Your Bed was destroyed!",
 
-                "Brdige.message.start": "&7Brdige wurde gestartet!",
-                "Bridge.message.finish": "&7Du hast es geschafft",
-                "Bridge.message.lose": "&7Du hast verloren",
+    "Brdige.message.start": "&7Bri7Bridge was started!",
 
-                "Core-SpeedCW-inventory-saved": "{PREFIX} &3Du hast dein Inventar gespeichert!",
+    "Bridge.message.finish": "&7You done it",
+    "Bridge.message.lose": "&7You lost",
 
-                "event.message.offline": "{PREFIX} &3Derzeit läuft kein Event!",
+    "Core-SpeedCW-inventory-saved": "{PREFIX} &3Y3You have saved your Inventory!",
 
-                "groupSystem-message-nick": "&7Dein Nickname ist nun &3{NAME}",
-                "groupSystem-message-unnick": "&7Dein Nickname wurde entfernt",
-                "groupSystem.message.groupnotfound": "&cGruppe wurde nicht gefunden",
+    "event.message.offline": "{PREFIX} &3Currently is no event running!",
 
-                "jumpAndRun.message.lose": "&cDu bist runtergefallen",
-                "jumpAndRun.message.start": "&2Das Jump and Run wurde gestartet! Springe los!",
+    "groupSystem-message-nick": "&7Your nickname is now &3{NAME}",
+    "groupSystem-message-unnick": "&7Your nickname has been removed",
+    "groupSystem.message.groupnotfound": "&cGroupe was not found",
 
-                "LanguageSystem.change": "{PREFIX} &aDeine Sprache wurde geändert!",
+    "jumpAndRun.message.lose": "&cYou falled down",
+    "jumpAndRun.message.start": "&2The JumpAndRun has started! Go!!",
 
-                "LobbyCore.feature.activated": "&7Du hast das Feature &3{FEATURE} &7aktiviert",
-                "LobbyCore.feature.deactivated": "&7Du hast das Feature &3{FEATURE} &7deaktiviert",
+    "LanguageSystem.change": "{PREFIX} &aYour language has been changed successfully!",
 
-                "ui.button.fly": "Fliegen",
-                "ui.button.droppedItem": "Blöcke zum Laufen",
-                "ui.button.walkingBlocks": "Blöcke laufen",
-                "ui.button.pets": "Haustiere",
+    "LobbyCore.feature.activated": "&7You have the feature &3{FEATURE} &7activated",
+    "LobbyCore.feature.deactivated": "&7You have the feature &3{FEATURE} &7deactivated",
 
-                "LobbySystem-message-falseFly":"&7Du kannst nun nicht mehr Fliegen!",
-                "LobbySystem-message-fly": "&7Du kannst nun Fliegen!",
+    "network.AllPlayers.list": "{PREFIX} &7There are currently &e{COUNT} &7Players on the Network",
 
-                "lobby.scoreboard.line.1": "§7Gruppe:",
-                "lobby.scoreboard.line.2": "§e {GROUP}",
-                "lobby.scoreboard.line.4": "§7Coins:",
-                "lobby.scoreboard.line.5": "§e {COINS}",
-                "lobby.scoreboard.line.7": "§7Onlinezeit:",
-                "lobby.scoreboard.line.8": "§e {ONLINETIME}",
-                "lobby.scoreboard.line.10": "§7Online:",
-                "lobby.scoreboard.line.11": "§e {ONLINEPLAYER}§7/§e{MAXPLAYER}",
+    "beta.join": "{PREFIX} §7You are now in the §eBeta-Program§7, you are now allowed to use Beta-Features",
+    "beta.leave": "{PREFIX} §cYou has leaved the §eBeta-Program§c, you hasn`t the perms to use Beta-Features",
+    "beta.Max.Limit": "{PREFIX} §cThe places for the §eBeta-Program §care occupied",
+    "beta.notify.join": "{PREFIX} &7You are in the §eBeta-Program! §7You have access to Beta-Features. §7Report bugs with §e/report bug",
 
-                "noPerms": "&cDu bist nicht berechtigt diesen Command auszuführen",
-                
-                "NPCSystem.ui.setup.button.addcommand": "&7Command hinzufügen",
-                "NPCSystem.ui.setup.button.addEmote": "&7Tänze",
-                "NPCSystem.ui.setup.button.close": "&7Schließen",
-                "NPCSystem.ui.setup.button.delete": "&7Löschen",
-                "NPCSystem.ui.setup.button.geometry": "&7Geometrie",
-                "NPCSystem.ui.setup.button.listcommand": "&7Command-Liste",
-                "NPCSystem.ui.setup.button.lookat": "&7Richtung",
-                "NPCSystem.ui.setup.button.name": "&7Name",
-                "NPCSystem.ui.setup.button.removecommand": "&7Command Entfernen",
-                "NPCSystem.ui.setup.button.size": "&7Größe",
-                "NPCSystem.ui.setup.button.skin": "&7Skin",
-                "NPCSystem.ui.setup.title": "&6&lNPCSystem"
-	}
+    "ui.button.fly": "fly",
+    "ui.button.droppedItem": "Blocks to run",
+    "ui.button.walkingBlocks": "Blocks run",
+    "ui.button.pets": "Pets",
+
+    "LobbySystem-message-falseFly":"&7You can no longer fly now!",
+    "LobbySystem-message-fly": "&7You can fly now!",
+
+    "lobby.scoreboard.line.1": "§7Groupe:",
+    "lobby.scoreboard.line.2": "§e {GROUP}",
+    "lobby.scoreboard.line.4": "§7Coins:",
+    "lobby.scoreboard.line.5": "§e {COINS}",
+    "lobby.scoreboard.line.7": "§7Onlinetime:",
+    "lobby.scoreboard.line.8": "§e {ONLINETIME}",
+    "lobby.scoreboard.line.10": "§7Online:",
+    "lobby.scoreboard.line.11": "§e {ONLINEPLAYER}§7/§e{MAXPLAYER}",
+
+    "noPerms": "&cYou are not allowed to execute this command",
+
+    "NPCSystem.ui.setup.button.addcommand": "&7Command Add",
+    "NPCSystem.ui.setup.button.addEmote": "&7Dances",
+    "NPCSystem.ui.setup.button.close": "&7Close",
+    "NPCSystem.ui.setup.button.delete": "&7Delete",
+    "NPCSystem.ui.setup.button.geometry": "&7Geometry",
+    "NPCSystem.ui.setup.button.lookat": "&7Richtung",
+    "NPCSystem.ui.setup.button.name": "&7Name",
+    "NPCSystem.ui.setup.button.removecommand": "&7Command Remove",
+    "NPCSystem.ui.setup.button.size": "&7Size",
+    "NPCSystem.ui.setup.button.skin": "&7Skin",
+    "NPCSystem.ui.setup.title": "&6&lNPCSystem"
+  }
 }
