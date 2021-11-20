@@ -1,7 +1,7 @@
 {
   "name": "English",
   "localeCode": "en_US",
-  "prefix": "§6§lBattle§l§eUnity §r§8»§7",
+  "PREFIX": "§6§lBattle§l§eUnity §r§8»§7",
   "publicParams": {
     "{BEDWARS}": "Bedwars"
   },
@@ -27,7 +27,7 @@
     "LobbyCore.feature.activated": "&7You have the feature &3{FEATURE} &7activated",
     "LobbyCore.feature.deactivated": "&7You have the feature &3{FEATURE} &7deactivated",
 
-    "network.AllPlayers.list": "{PREFIX} &7There are currently &e{COUNT} &7Players on the Network",
+    "network.AllPlayers.list": "{PREFIX} &7There are currently &e{COUNT} &7Players on the Network registered",
 
     "ui.button.fly": "fly",
     "ui.button.droppedItem": "Blocks to run",
@@ -60,9 +60,9 @@
     "NPCSystem.ui.setup.button.skin": "&7Skin",
     "NPCSystem.ui.setup.title": "&6&lNPCSystem",
 
-    "Cloud.GameServer.is.Full": "&7Dieser Server ist §cvoll!",
-    "Cloud.GameServer.is.Whitelist": "&7Du bist nicht berechtigt diesem Server beizutreten!",
-    "Cloud.GameServer.is.Ingame": "&7Diese Runde hat bereits begonnen!",
-    "Cloud.GameServer.is.Restarting": "&7Dieser Server wird neugestartet! Warte auf eine neue Runde!"
+    "Cloud.GameServer.is.Full": "&7This Server is §cfull!",
+    "Cloud.GameServer.is.Whitelist": "&7You are not allowed to Join this Server!",
+    "Cloud.GameServer.is.Ingame": "&7This Round was already started!",
+    "Cloud.GameServer.is.Restarting": "&7This Server restarting already! Wait for a new Round!"
   }
 }
