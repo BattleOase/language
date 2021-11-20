@@ -11,27 +11,29 @@
     "Brdige.message.start": "&7Brdige wurde gestartet!",
     "Bridge.message.finish": "&7Du hast es geschafft",
     "Bridge.message.lose": "&7Du hast verloren",
-	  
+
     "Core-SpeedCW-inventory-saved": "{PREFIX} &3Du hast dein Inventar gespeichert!",
-	  
+
     "event.message.offline": "{PREFIX} &3Derzeit läuft kein Event!",
     "groupSystem-message-nick": "&7Dein Nickname ist nun &3{NAME}",
     "groupSystem-message-unnick": "&7Dein Nickname wurde entfernt",
     "groupSystem.message.groupnotfound": "&cGruppe wurde nicht gefunden",
-	  
+
     "jumpAndRun.message.lose": "&cDu bist runtergefallen",
     "jumpAndRun.message.start": "&2Das Jump and Run wurde gestartet! Springe los!",
-	  
+
     "LanguageSystem.change": "{PREFIX} &aDeine Sprache wurde geändert!",
-	  
+
     "LobbyCore.feature.activated": "&7Du hast das Feature &3{FEATURE} &7aktiviert",
     "LobbyCore.feature.deactivated": "&7Du hast das Feature &3{FEATURE} &7deaktiviert",
-	  
+
+    "network.AllPlayers.list": "{PREFIX} &7Es sind derzeit &e{COUNT} &7Spieler auf dem Netzwerk",
+
     "ui.button.fly": "Fliegen",
     "ui.button.droppedItem": "Blöcke zum Laufen",
     "ui.button.walkingBlocks": "Blöcke laufen",
     "ui.button.pets": "Haustiere",
-	  
+
     "LobbySystem-message-falseFly": "&7Du kannst nun nicht mehr Fliegen!",
     "LobbySystem-message-fly": "&7Du kannst nun Fliegen!",
     "lobby.scoreboard.line.1": "§7Gruppe:",
@@ -42,9 +44,9 @@
     "lobby.scoreboard.line.8": "§e {ONLINETIME}",
     "lobby.scoreboard.line.10": "§7Online:",
     "lobby.scoreboard.line.11": "§e {ONLINEPLAYER}§7/§e{MAXPLAYER}",
-	  
+
     "noPerms": "&cDu bist nicht berechtigt diesen Command auszuführen",
-	  
+
     "NPCSystem.ui.setup.button.addcommand": "&7Command hinzufügen",
     "NPCSystem.ui.setup.button.addEmote": "&7Tänze",
     "NPCSystem.ui.setup.button.close": "&7Schließen",
@@ -56,6 +58,11 @@
     "NPCSystem.ui.setup.button.removecommand": "&7Command Entfernen",
     "NPCSystem.ui.setup.button.size": "&7Größe",
     "NPCSystem.ui.setup.button.skin": "&7Skin",
-    "NPCSystem.ui.setup.title": "&6&lNPCSystem"
+    "NPCSystem.ui.setup.title": "&6&lNPCSystem",
+
+    "Cloud.GameServer.is.Full": "&7This Server is §cfull!",
+    "Cloud.GameServer.is.Whitelist": "&7You are not allowed to Join this Server!",
+    "Cloud.GameServer.is.Ingame": "&7This Round was already started!",
+    "Cloud.GameServer.is.Restarting": "&7This Server restarting already! Wait for a new Round!"
   }
 }
