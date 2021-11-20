@@ -8,16 +8,13 @@
   "values": {
     "BedWars-message-bedBreak": "{PLAYER} &cdestroyed the bed from {TEAM}&r&c.",
     "BedWars-message-yourBed": "Your Bed was destroyed!",
-
     "Brdige.message.start": "&7Bri7Bridge was started!",
-
     "Bridge.message.finish": "&7You done it",
     "Bridge.message.lose": "&7You lost",
 
     "Core-SpeedCW-inventory-saved": "{PREFIX} &3Y3You have saved your Inventory!",
 
     "event.message.offline": "{PREFIX} &3Currently is no event running!",
-
     "groupSystem-message-nick": "&7Your nickname is now &3{NAME}",
     "groupSystem-message-unnick": "&7Your nickname has been removed",
     "groupSystem.message.groupnotfound": "&cGroupe was not found",
@@ -25,17 +22,12 @@
     "jumpAndRun.message.lose": "&cYou falled down",
     "jumpAndRun.message.start": "&2The JumpAndRun has started! Go!!",
 
-    "LanguageSystem.change": "{PREFIX} &aYour language has been changed successfully!",
+    "LanguageSystem.change": "{PREFIX} &aYour Language has been changed successfully!",
 
     "LobbyCore.feature.activated": "&7You have the feature &3{FEATURE} &7activated",
     "LobbyCore.feature.deactivated": "&7You have the feature &3{FEATURE} &7deactivated",
 
     "network.AllPlayers.list": "{PREFIX} &7There are currently &e{COUNT} &7Players on the Network",
-
-    "beta.join": "{PREFIX} §7You are now in the §eBeta-Program§7, you are now allowed to use Beta-Features",
-    "beta.leave": "{PREFIX} §cYou has leaved the §eBeta-Program§c, you hasn`t the perms to use Beta-Features",
-    "beta.Max.Limit": "{PREFIX} §cThe places for the §eBeta-Program §care occupied",
-    "beta.notify.join": "{PREFIX} &7You are in the §eBeta-Program! §7You have access to Beta-Features. §7Report bugs with §e/report bug",
 
     "ui.button.fly": "fly",
     "ui.button.droppedItem": "Blocks to run",
@@ -66,6 +58,11 @@
     "NPCSystem.ui.setup.button.removecommand": "&7Command Remove",
     "NPCSystem.ui.setup.button.size": "&7Size",
     "NPCSystem.ui.setup.button.skin": "&7Skin",
-    "NPCSystem.ui.setup.title": "&6&lNPCSystem"
+    "NPCSystem.ui.setup.title": "&6&lNPCSystem",
+
+    "Cloud.GameServer.is.Full": "&7Dieser Server ist §cvoll!",
+    "Cloud.GameServer.is.Whitelist": "&7Du bist nicht berechtigt diesem Server beizutreten!",
+    "Cloud.GameServer.is.Ingame": "&7Diese Runde hat bereits begonnen!",
+    "Cloud.GameServer.is.Restarting": "&7Dieser Server wird neugestartet! Warte auf eine neue Runde!"
   }
 }
