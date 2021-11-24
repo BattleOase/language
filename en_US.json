@@ -63,6 +63,12 @@
     "Cloud.GameServer.is.Full": "&7This Server is §cfull!",
     "Cloud.GameServer.is.Whitelist": "&7You are not allowed to Join this Server!",
     "Cloud.GameServer.is.Ingame": "&7This Round was already started!",
-    "Cloud.GameServer.is.Restarting": "&7This Server restarting already! Wait for a new Round!"
+    "Cloud.GameServer.is.Restarting": "&7This Server restarting already! Wait for a new Round!",
+    
+    "broadcast.message.1": "§6BattleUnity §8| §7You can join our discord via §ehttp://battleunity.net/discord",
+    "broadcast.message.2": "§6BattleUnity §8| §7You can join our discord via §ehttp://battleunity.net/discord",
+    "broadcast.message.3": "§6BattleUnity §8| §7You can join our discord via §ehttp://battleunity.net/discord",
+    "broadcast.message.4": "§6BattleUnity §8| §7You can join our discord via §ehttp://battleunity.net/discord",
+    "broadcast.message.5": "§6BattleUnity §8| §7You can join our discord via §ehttp://battleunity.net/discord"
   }
 }
