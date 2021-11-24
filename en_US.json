@@ -63,6 +63,7 @@
     "Cloud.GameServer.is.Full": "&7This Server is §cfull!",
     "Cloud.GameServer.is.Whitelist": "&7You are not allowed to Join this Server!",
     "Cloud.GameServer.is.Ingame": "&7This Round was already started!",
-    "Cloud.GameServer.is.Restarting": "&7This Server restarting already! Wait for a new Round!"
+    "Cloud.GameServer.is.Restarting": "&7This Server restarting already! Wait for a new Round!",
+    "mlgrush.player.breaked.bett": "§7Your Bed was destoryed!"
   }
 }
