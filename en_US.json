@@ -1,69 +1,18 @@
 {
   "name": "English",
   "localeCode": "en_US",
-  "PREFIX": "§6§lBattle§l§eUnity §r§8»§7",
-  "publicParams": {
-    "{BEDWARS}": "Bedwars"
-  },
+  "emoji": "🇺🇸",
+  "prefix": "§r§f§lBattle§l§bUnity §r§f§7",
+  "contributors": ["ceepkev77", "SyntaxPE"],
+
   "values": {
-    "BedWars-message-bedBreak": "{PLAYER} &cdestroyed the bed from {TEAM}&r&c.",
-    "BedWars-message-yourBed": "Your Bed was destroyed!",
-    "Brdige.message.start": "&7Bri7Bridge was started!",
-    "Bridge.message.finish": "&7You done it",
-    "Bridge.message.lose": "&7You lost",
-
-    "Core-SpeedCW-inventory-saved": "{PREFIX} &3Y3You have saved your Inventory!",
-
-    "event.message.offline": "{PREFIX} &3Currently is no event running!",
-    "groupSystem-message-nick": "&7Your nickname is now &3{NAME}",
-    "groupSystem-message-unnick": "&7Your nickname has been removed",
-    "groupSystem.message.groupnotfound": "&cGroupe was not found",
-
-    "jumpAndRun.message.lose": "&cYou falled down",
-    "jumpAndRun.message.start": "&2The JumpAndRun has started! Go!!",
-
-    "LanguageSystem.change": "{PREFIX} &aYour Language has been changed successfully!",
-
-    "LobbyCore.feature.activated": "&7You have the feature &3{FEATURE} &7activated",
-    "LobbyCore.feature.deactivated": "&7You have the feature &3{FEATURE} &7deactivated",
-
-    "network.AllPlayers.list": "{PREFIX} &7There are currently &e{COUNT} &7Players on the Network registered",
-
-    "ui.button.fly": "fly",
-    "ui.button.droppedItem": "Blocks to run",
-    "ui.button.walkingBlocks": "Blocks run",
-    "ui.button.pets": "Pets",
-
-    "LobbySystem-message-falseFly":"&7You can no longer fly now!",
-    "LobbySystem-message-fly": "&7You can fly now!",
-
-    "lobby.scoreboard.line.1": "§7Groupe:",
-    "lobby.scoreboard.line.2": "§e {GROUP}",
-    "lobby.scoreboard.line.4": "§7Coins:",
-    "lobby.scoreboard.line.5": "§e {COINS}",
-    "lobby.scoreboard.line.7": "§7Onlinetime:",
-    "lobby.scoreboard.line.8": "§e {ONLINETIME}",
-    "lobby.scoreboard.line.10": "§7Online:",
-    "lobby.scoreboard.line.11": "§e {ONLINEPLAYER}§7/§e{MAXPLAYER}",
-
-    "noPerms": "&cYou are not allowed to execute this command",
-
-    "NPCSystem.ui.setup.button.addcommand": "&7Command Add",
-    "NPCSystem.ui.setup.button.addEmote": "&7Dances",
-    "NPCSystem.ui.setup.button.close": "&7Close",
-    "NPCSystem.ui.setup.button.delete": "&7Delete",
-    "NPCSystem.ui.setup.button.geometry": "&7Geometry",
-    "NPCSystem.ui.setup.button.lookat": "&7Richtung",
-    "NPCSystem.ui.setup.button.name": "&7Name",
-    "NPCSystem.ui.setup.button.removecommand": "&7Command Remove",
-    "NPCSystem.ui.setup.button.size": "&7Size",
-    "NPCSystem.ui.setup.button.skin": "&7Skin",
-    "NPCSystem.ui.setup.title": "&6&lNPCSystem",
-
-    "Cloud.GameServer.is.Full": "&7This Server is §cfull!",
-    "Cloud.GameServer.is.Whitelist": "&7You are not allowed to Join this Server!",
-    "Cloud.GameServer.is.Ingame": "&7This Round was already started!",
-    "Cloud.GameServer.is.Restarting": "&7This Server restarting already! Wait for a new Round!",
-    "mlgrush.player.breaked.bett": "§7Your Bed was destoryed!"
+    "LanguageSystem.change": "{PREFIX}&aYour Language has been changed successfully!",
+    
+    "Cloud.GameServer.is.Full": "{PREFIX}&7This Server is §cfull!",
+    "Cloud.GameServer.is.Whitelist": "{PREFIX}&7You are not allowed to Join this Server!",
+    "Cloud.GameServer.is.Ingame": "{PREFIX}&7This Round was already started!",
+    "Cloud.GameServer.is.Restarting": "{PREFIX}&7This Server restarting already! Wait for a new Round!",
+    
+    "mlgrush.player.breaked.bett": "{PREFIX}§7Your Bed was destoryed!"
   }
 }
