@@ -1,9 +1,9 @@
 {
   "name": "Deutsch",
-	"locale": "de_DE",
-	"emoji": "🇩🇪",
-	"prefix": "§6§lBattle§l§eUnity §r§8»§7",
-	"contributors": ["ceepkev77"],
+  "localeCode": "de_DE",
+  "emoji": "🇩🇪",
+  "prefix": "§r§f§lBattle§l§bUnity §r§f§7",
+  "contributors": ["ceepkev77", "SyntaxPE"],
   
   "values": {
     "BedWars-message-bedBreak": "{PLAYER} &czerstörte das Bett von {TEAM}&r&c.",
