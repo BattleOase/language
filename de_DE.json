@@ -6,6 +6,7 @@
   "contributors": ["ceepkev77", "SyntaxPE"],
   
   "values": {
+    "core-message-start": "Hallo, Ich bin das Core",
     "BedWars-message-bedBreak": "{PLAYER} &czerstörte das Bett von {TEAM}&r&c.",
     "BedWars-message-yourBed": "Dein Bett wurde zerstört!",
     "Brdige.message.start": "&7Brdige wurde gestartet!",
