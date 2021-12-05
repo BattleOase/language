@@ -1,10 +1,10 @@
 {
   "name": "Deutsch",
-  "localeCode": "de_DE",
-  "PREFIX": "§6§lBattle§l§eUnity §r§8»§7",
-  "publicParams": {
-    "{BEDWARS}": "Bedwars"
-  },
+	"locale": "de_DE",
+	"emoji": "🇩🇪",
+	"prefix": "§6§lBattle§l§eUnity §r§8»§7",
+	"contributors": ["ceepkev77"],
+  
   "values": {
     "BedWars-message-bedBreak": "{PLAYER} &czerstörte das Bett von {TEAM}&r&c.",
     "BedWars-message-yourBed": "Dein Bett wurde zerstört!",
