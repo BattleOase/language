@@ -8,11 +8,35 @@
   "values": {
     "LanguageSystem.change": "{PREFIX}&aYour Language has been changed successfully!",
     
-    "Cloud.GameServer.is.Full": "{PREFIX}&7This Server is §cfull!",
-    "Cloud.GameServer.is.Whitelist": "{PREFIX}&7You are not allowed to Join this Server!",
-    "Cloud.GameServer.is.Ingame": "{PREFIX}&7This Round was already started!",
-    "Cloud.GameServer.is.Restarting": "{PREFIX}&7This Server restarting already! Wait for a new Round!",
+    "Cloud.GameServer.is.Full": "{PREFIX}&cThis Server is §cfull!",
+    "Cloud.GameServer.is.Whitelist": "{PREFIX}&cYou are not allowed to Join this Server!",
+    "Cloud.GameServer.is.Ingame": "{PREFIX}&cThis Round was already started!",
+    "Cloud.GameServer.is.Restarting": "{PREFIX}&cThis Server restarting already! Wait for a new Round!",
     
-    "mlgrush.player.breaked.bett": "{PREFIX}§7Your Bed was destoryed!"
+    "mlgrush.player.breaked.bett": "{PREFIX}§cYour Bed was destoryed!",
+
+    "lobbycore.message.buildmode.activate": "&aYou are now in §eBuild-Mode§a!",
+    "lobbycore.message.buildmode.deactivate": "&cYou are leave the §eBuild-Mode§c!",
+
+    "jumpAndRun.message.lose": "§cYou loste the §eJumpAndRun§c!",
+    "jumpAndRun.message.start": "§aYou started the §eJumpAndRun§a!",
+    "jumpAndRun.message.finish": "§aYou have successfully completed the §eJumpAndRun§a",
+    "jumpAndRun.notice.jumpLeave": "§7You can leave the JumpAndRun with §e/Jumpleave§7!",
+    "jumAndRun.message.checkpoint": "§7You have reached the §eCheckpoint§7!",
+
+    "Bridge.message.lose": "§cUnfortunately, you fell down!",
+    "Bridge.message.start": "§aYou started §eBridge§a!",
+    "Bridge.message.player.isinLobbyGame": "§ca Player is already in §eBridge§c!",
+
+    "event.message.offline": "§cthere is currently no event running!",
+    "event.message.off": "§7You did the event offline!",
+    "event.message.select": "§aYou have registered the server §e{SERVER} §aas a event server!",
+
+    "protection.enabled": "§aYou have Enabled Protection!",
+    "protection.disabled": "§cYou have deactivated the protection!",
+    "protection.noPerms": "§cYou dont have permission to do that!",
+
+    "lobby.fly.enable": "§aYou can now Fly!",
+    "lobby.fly.disable": "§cYou can no longer Fly!"
   }
 }
