@@ -43,6 +43,8 @@
     "protection.noPerms": "§cDu hast dazu keine Rechte!",
 
     "lobby.fly.enable": "§aDu kannst nun Fliegen!",
-    "lobby.fly.disable": "§cDu kannst nichtmehr Fliegen!"
+    "lobby.fly.disable": "§cDu kannst nichtmehr Fliegen!",
+    
+    "unknown.command.message": "§cDieser Command existiert nicht! Versuche /help für mehr!"
   }
 }
