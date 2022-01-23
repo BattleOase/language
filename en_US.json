@@ -39,6 +39,8 @@
     "lobby.fly.enable": "§aYou can now Fly!",
     "lobby.fly.disable": "§cYou can no longer Fly!",
     
-     "unknown.command.message": "§cUnknown Command! Try /help for more!"
+     "unknown.command.message": "§cUnknown Command! Try /help for more!",
+    
+    "verification.player.verificationKey": "§aYour Verify-Key: §r§f{KEY}"
   }
 }
