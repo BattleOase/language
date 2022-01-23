@@ -41,6 +41,6 @@
     
     "unknown.command.message": "§cUnknown Command! Try /help for more!",
     
-    "verification.player.verificationKey": "§aYour Verify-Key: §r§f{KEY}",
+    "verification.player.verificationKey": "§aYour Verify-Key: §r§f{KEY}"
   }
 }
