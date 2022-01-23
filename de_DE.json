@@ -47,6 +47,6 @@
     
     "unknown.command.message": "§cDieser Command existiert nicht! Versuche /help für mehr!",
     
-    "verification.player.verificationKey": "§aDein Verify-Key: §r§f{KEY}",
+    "verification.player.verificationKey": "§aDein Verify-Key: §r§f{KEY}"
   }
 }
