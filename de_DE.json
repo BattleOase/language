@@ -49,6 +49,8 @@
     
     "verification.player.verificationKey": "§aDein Verify-Key: §r§f{KEY}",
     
-    "informations.player.uidesc": "§7Hier sind deine persönlichen Informationen über dich!"
+    "informations.player.uidesc": "§7Hier sind deine persönlichen Informationen über dich!",
+    
+    "Bedwars.break.YourBed": "§cDu kannst dein eigenes Bett nicht abbauen!"
   }
 }
