@@ -34,7 +34,7 @@
     "Bridge.message.start": "§aDu hast §eBridge §agestartet!",
     "Bridge.message.player.isinLobbyGame": "§cein Spieler ist bereits in Bridge!",
 
-    "event.message.offline": "§ces läuft derzeit kein Event!",
+    "event.message.offline": "§cEs läuft derzeit kein Event!",
     "event.message.off": "§7Du hast das Event offline gemacht!",
     "event.message.select": "§aDu hast den Server {SERVER} als Event Server registiert!",
 
