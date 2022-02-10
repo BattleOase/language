@@ -3,7 +3,7 @@
   "localeCode": "de_DE",
   "emoji": "🇩🇪",
   "prefix": "§3Battle§bOase §r§f§7",
-  "contributors": ["ceepkev77", "SyntaxPE"],
+  "contributors": ["ceepkev77", "SyntaxPE", "ceepkev77"],
   
   "values": {
     "LanguageSystem.change": "{PREFIX}&aDeine Sprache wurde geändert!",
