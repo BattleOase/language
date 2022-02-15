@@ -36,6 +36,11 @@
     "protection.disabled": "§cDu hast die Protection deaktiviert!",
     "protection.noPerms": "§cDu hast dazu keine Rechte!",
 
+    "lobby.profile.yourFriends": "Deine Freunde",
+    "lobby.profile.settings": "Einstellungen",
+    "lobby.profile.yourClan": "Dein Clan",
+    "lobby.profile.yourInformations": "Deine Informationen",
+
     "lobby.fly.enable": "§aFly aktiviert",
     "lobby.fly.disable": "§cFly deaktiviert",
     
