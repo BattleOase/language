@@ -13,12 +13,6 @@
     "Cloud.GameServer.is.Ingame": "{PREFIX}&cDiese Runde hat bereits begonnen!",
     "Cloud.GameServer.is.Restarting": "{PREFIX}&cDieser Server wird neugestartet! Warte auf eine neue Runde!",
     
-    "broadcast.message.1": "§6BattleUnity §8| §7You can join our discord via §ehttp://battleunity.net/discord",
-    "broadcast.message.2": "§6BattleUnity §8| §7You can join our discord via §ehttp://battleunity.net/discord",
-    "broadcast.message.3": "§6BattleUnity §8| §7You can join our discord via §ehttp://battleunity.net/discord",
-    "broadcast.message.4": "§6BattleUnity §8| §7You can join our discord via §ehttp://battleunity.net/discord",
-    "broadcast.message.5": "§6BattleUnity §8| §7You can join our discord via §ehttp://battleunity.net/discord",
-    
     "mlgrush.player.breaked.bett": "{PREFIX}§cDein Bett wurde zerstört!",
 
     "lobbycore.message.buildmode.activate": "&aDu bist nun im §eBuild-Mode§a!",
@@ -42,8 +36,8 @@
     "protection.disabled": "§cDu hast die Protection deaktiviert!",
     "protection.noPerms": "§cDu hast dazu keine Rechte!",
 
-    "lobby.fly.enable": "§aDu kannst nun Fliegen!",
-    "lobby.fly.disable": "§cDu kannst nichtmehr Fliegen!",
+    "lobby.fly.enable": "§aFly aktiviert",
+    "lobby.fly.disable": "§cFly deaktiviert",
     
     "unknown.command.message": "§cDieser Command existiert nicht! Versuche /help für mehr!",
     
