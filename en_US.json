@@ -52,6 +52,11 @@
     
     "informations.player.uidesc": "§7Here are your personal Informations about you!",
     
-    "Bedwars.break.YourBed": "§cYou can't break your own bed!"
+    "bedwars.break.yourBed": "§cYou can't break your own bed!",
+    "bedwars.message.breakBed": "§cThe Bed from {TEAM} §cwas destroyed by §r§f{PLAYER}",
+    "bedwars.already.break": "§cThe Bed was already destroyed!",
+    "bedwars.message.winPlayer": "§aThe Team §7{TEAM} §ahas won the Round!",
+
+    "not.enough.resources": "§cYou dont have enough Resources!"
   }
 }

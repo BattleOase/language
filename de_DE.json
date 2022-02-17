@@ -52,6 +52,11 @@
     
     "informations.player.uidesc": "§7Hier sind deine persönlichen Informationen über dich!",
     
-    "Bedwars.break.YourBed": "§cDu kannst dein eigenes Bett nicht abbauen!"
+    "bedwars.break.yourBed": "§cDu kannst dein eigenes Bett nicht abbauen!",
+    "bedwars.message.breakBed": "§cDas Bett von {TEAM} §cwurde zerstört von §r§f{PLAYER}",
+    "bedwars.already.break": "§cDas Bett wurde schon abgebaut!",
+    "bedwars.message.winPlayer": "§aDas Team §7{TEAM} §ahat die Runde geworden!",
+
+    "not.enough.resources": "§cDu hast nicht genug Resourcen!"
   }
 }
