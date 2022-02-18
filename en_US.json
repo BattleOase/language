@@ -61,6 +61,8 @@
     "bedwars.already.break": "§cThe Bed was already destroyed!",
     "bedwars.message.winPlayer": "§aThe Team §7{TEAM} §ahas won the Round!",
 
-    "not.enough.resources": "§cYou dont have enough Resources!"
+    "not.enough.resources": "§cYou dont have enough Resources!",
+
+    "coins.command.message": "§7You had currently {COINS}§7$"
   }
 }

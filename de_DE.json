@@ -61,6 +61,8 @@
     "bedwars.already.break": "§cDas Bett wurde schon abgebaut!",
     "bedwars.message.winPlayer": "§aDas Team §7{TEAM} §ahat die Runde geworden!",
 
-    "not.enough.resources": "§cDu hast nicht genug Resourcen!"
+    "not.enough.resources": "§cDu hast nicht genug Resourcen!",
+
+    "coins.command.message": "§7Du hast aktuell {COINS}§7$"
   }
 }
