@@ -36,6 +36,10 @@
     "protection.disabled": "§cYou have deactivated the protection!",
     "protection.noPerms": "§cYou dont have permission to do that!",
 
+    "groupsystem.message.giveplayergroup": "§aYou gave §r§f{NAME} the Rank {GROUP}§a!",
+    "groupsystem.message.groupNotfound": "§cThis Rank was not found!",
+    "groupsystem.message.setnewRank": "§7Your group has been updated to {GROUP} §7!",
+
     "lobby.profile.yourFriends": "Your Friends",
     "lobby.profile.settings": "Settings",
     "lobby.profile.yourClan": "Your Clan",
