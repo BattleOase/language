@@ -63,6 +63,6 @@
 
     "not.enough.resources": "§cYou dont have enough Resources!",
 
-    "coins.command.message": "§7You had currently {COINS}§7$"
+    "coins.command.message": "§7You had currently §e{COINS}§7 Coins"
   }
 }
