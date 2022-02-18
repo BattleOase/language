@@ -36,7 +36,7 @@
     "protection.disabled": "§cDu hast die Protection deaktiviert!",
     "protection.noPerms": "§cDu hast dazu keine Rechte!",
 
-    "groupsystem.message.giveplayergroup": "§aDu hast §r§f{NAME} den Rang {GROUP} §agegeben!",
+    "groupsystem.message.giveplayergroup": "§aDu hast §r§f{NAME} §aden Rang {GROUP} §agegeben!",
     "groupsystem.message.groupNotfound": "§cDieser Rang wurde nicht gefunden!",
     "groupsystem.message.setnewRank": "§7Deine Gruppe wurde zu {GROUP} §7aktualisiert!",
 
