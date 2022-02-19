@@ -63,6 +63,9 @@
 
     "not.enough.resources": "§cYou dont have enough Resources!",
 
-    "coins.command.message": "§7You had currently §e{COINS}§7 Coins"
+    "coins.command.message": "§7You has currently §e{COINS}§7 Coins",
+
+    "dailyreward.claimed.success": "§aYou has successfully claimed your Daily Reward!",
+    "dailyreward.already.claimed": "§cYou can get your reward again on §e{NEXT}§8."
   }
 }
