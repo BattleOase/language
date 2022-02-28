@@ -66,6 +66,11 @@
     "coins.command.message": "§7Du hast aktuell §e{COINS}§7 Coins",
 
     "dailyreward.claimed.success": "§aDu hast deine Tägliche Belohnung abgeholt!",
-    "dailyreward.already.claimed": "§cDu kannst dir deine Belohnung wieder am §e{NEXT} §cabholen!"
+    "dailyreward.already.claimed": "§cDu kannst dir deine Belohnung wieder am §e{NEXT} §cabholen!",
+
+    "FriendSystem.ui.button.listFriends": "§7Liste deiner §aFreunde",
+    "FriendSystem.ui.button.friendRequests": "§7Freundschafsanfragen\n§e{COUNT}",
+    "FriendSystem.ui.button.addFriend": "§7Freund §ehinzufügen",
+    "FriendSystem.ui.button.settings": "§7Einstellungen"
   }
 }
