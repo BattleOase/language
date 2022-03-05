@@ -71,6 +71,12 @@
     "FriendSystem.ui.button.listFriends": "§7List of your Friends",
     "FriendSystem.ui.button.friendRequests": "§7Friendrequests\n§e{COUNT}",
     "FriendSystem.ui.button.addFriend": "§eAdd §7Friend",
-    "FriendSystem.ui.button.settings": "§7Settings"
+    "FriendSystem.ui.button.settings": "§7Settings",
+    "FriendSystem.send.friendRequest": "§7You has sent a §efriend request §7to §r§f{TO} §7!",
+    "FriendSystem.received.friendRequest": "§7You have received a §efriend request §7from §r§f{BY}",
+    "FriendSystem.error": "§cYou can't add yourself as friend.",
+    "FriendSystem.already.send": "§cYou have already sent an Friend request to this player",
+    "FriendSystem.already.yourFriend": "§cThis player is already your friend.",
+    "FriendSystem.player.notExist": "§cThis player don't exists."
   }
 }
