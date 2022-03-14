@@ -40,12 +40,13 @@
     "groupsystem.message.groupNotfound": "§cThis Rank was not found!",
     "groupsystem.message.setnewRank": "§7Your group has been updated to {GROUP} §7!",
 
-    "lobby.profile.yourFriends": "Your Friends",
+    "lobby.profile.yourFriends": "Friends",
     "lobby.profile.settings": "Settings",
-    "lobby.profile.yourClan": "Your Clan",
-    "lobby.profile.yourInformations": "Your Informations",
-    "lobby.profile.messages": "Messages",
-    "lobby.profile.yourTransactions": "Your Transactions",
+    "lobby.profile.yourClan": "Clan",
+    "lobby.profile.language": "Language",
+    "lobby.profile.party": "Party",
+    "lobby.profile.discordVerify": "Discord-Verify",
+    "lobby.profile.stats": "Stats",
 
     "lobby.fly.enable": "§aActivated Fly",
     "lobby.fly.disable": "§cDeactivated Fly!",

@@ -40,12 +40,13 @@
     "groupsystem.message.groupNotfound": "§cDieser Rang wurde nicht gefunden!",
     "groupsystem.message.setnewRank": "§7Deine Gruppe wurde zu {GROUP} §7aktualisiert!",
 
-    "lobby.profile.yourFriends": "Deine Freunde",
+    "lobby.profile.yourFriends": "Freunde",
     "lobby.profile.settings": "Einstellungen",
-    "lobby.profile.yourClan": "Dein Clan",
-    "lobby.profile.yourInformations": "Deine Informationen",
-    "lobby.profile.messages": "Nachrichten",
-    "lobby.profile.yourTransactions": "Deine Transaktionen",
+    "lobby.profile.yourClan": "Clan",
+    "lobby.profile.language": "Sprache",
+    "lobby.profile.party": "Party",
+    "lobby.profile.discordVerify": "Discord-Verify",
+    "lobby.profile.stats": "Stats",
 
     "lobby.fly.enable": "§aFly aktiviert",
     "lobby.fly.disable": "§cFly deaktiviert",
@@ -77,6 +78,8 @@
     "FriendSystem.error": "§cDu kannst dich selbst nicht als Freund hinzufügen!",
     "FriendSystem.already.send": "§cDu hast diesem Spieler bereits eine Freundschaftsanfrage gesendet.",
     "FriendSystem.already.yourFriend": "§cDieser Spieler ist bereits dein Freund.",
-    "FriendSystem.player.notExist": "§cDieser Spieler existiert nicht."
+    "FriendSystem.player.notExist": "§cDieser Spieler existiert nicht.",
+
+    "": ""
   }
 }
