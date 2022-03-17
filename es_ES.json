@@ -5,12 +5,12 @@
   "prefix": "§3Battle§bOase §r§f§7",
   "contributors": ["ceepkev77"],
   "values": {
-    "LanguageSystem.change": "{PREFIX}&aYour Language has been changed successfully!",
+    "LanguageSystem.change": "{PREFIX}&a¡Tu idioma ha sido cambiado con éxito!",
 
-    "Cloud.GameServer.is.Full": "{PREFIX}&cThis Server is §cfull!",
-    "Cloud.GameServer.is.Whitelist": "{PREFIX}&cYou are not allowed to Join this Server!",
-    "Cloud.GameServer.is.Ingame": "{PREFIX}&cThis Round was already started!",
-    "Cloud.GameServer.is.Restarting": "{PREFIX}&cThis Server restarting already! Wait for a new Round!",
+    "Cloud.GameServer.is.Full": "{PREFIX}&c¡Este servidor está lleno!",
+    "Cloud.GameServer.is.Whitelist": "{PREFIX}&c¡No tienes permiso para unirte a este servidor!",
+    "Cloud.GameServer.is.Ingame": "{PREFIX}&c¡Esta Ronda ya había comenzado!",
+    "Cloud.GameServer.is.Restarting": "{PREFIX}&c¡Este servidor ya se está reiniciando! ¡Espera una nueva ronda!",
 
     "mlgrush.player.breaked.bett": "{PREFIX}§cYour Bed was destoryed!",
 
@@ -39,13 +39,13 @@
     "groupsystem.message.groupNotfound": "§cThis Rank was not found!",
     "groupsystem.message.setnewRank": "§7Your group has been updated to {GROUP} §7!",
 
-    "lobby.profile.yourFriends": "Friends",
-    "lobby.profile.settings": "Settings",
+    "lobby.profile.yourFriends": "Amigos",
+    "lobby.profile.settings": "Ajustes",
     "lobby.profile.yourClan": "Clan",
-    "lobby.profile.language": "Language",
-    "lobby.profile.party": "Party",
-    "lobby.profile.discordVerify": "Discord-Verify",
-    "lobby.profile.stats": "Stats",
+    "lobby.profile.language": "Idioma",
+    "lobby.profile.party": "Fiesta",
+    "lobby.profile.discordVerify": "Discord-Verificar",
+    "lobby.profile.stats": "Verificar",
 
     "lobby.fly.enable": "§aActivated Fly",
     "lobby.fly.disable": "§cDeactivated Fly!",
