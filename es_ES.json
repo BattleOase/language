@@ -1,0 +1,82 @@
+{
+  "name": "Español",
+  "localeCode": "es_ES",
+  "emoji": "español",
+  "prefix": "§3Battle§bOase §r§f§7",
+  "contributors": ["ceepkev77"],
+  "values": {
+    "LanguageSystem.change": "{PREFIX}&aYour Language has been changed successfully!",
+
+    "Cloud.GameServer.is.Full": "{PREFIX}&cThis Server is §cfull!",
+    "Cloud.GameServer.is.Whitelist": "{PREFIX}&cYou are not allowed to Join this Server!",
+    "Cloud.GameServer.is.Ingame": "{PREFIX}&cThis Round was already started!",
+    "Cloud.GameServer.is.Restarting": "{PREFIX}&cThis Server restarting already! Wait for a new Round!",
+
+    "mlgrush.player.breaked.bett": "{PREFIX}§cYour Bed was destoryed!",
+
+    "lobbycore.message.buildmode.activate": "&aYou are now in §eBuild-Mode§a!",
+    "lobbycore.message.buildmode.deactivate": "&cYou are leave the §eBuild-Mode§c!",
+
+    "jumpAndRun.message.lose": "§cYou loste the §eJumpAndRun§c!",
+    "jumpAndRun.message.start": "§aYou started the §eJumpAndRun§a!",
+    "jumpAndRun.message.finish": "§aYou have successfully completed the §eJumpAndRun§a",
+    "jumpAndRun.notice.jumpLeave": "§7You can leave the JumpAndRun with §e/Jumpleave§7!",
+    "jumAndRun.message.checkpoint": "§7You have reached the §eCheckpoint§7!",
+
+    "Bridge.message.lose": "§cUnfortunately, you fell down!",
+    "Bridge.message.start": "§aYou started §eBridge§a!",
+    "Bridge.message.player.isinLobbyGame": "§ca Player is already in §eBridge§c!",
+
+    "event.message.offline": "§cThere is currently no event running!",
+    "event.message.off": "§7You did the event offline!",
+    "event.message.select": "§aYou have registered the server §e{SERVER} §aas a event server!",
+
+    "protection.enabled": "§aYou have Enabled Protection!",
+    "protection.disabled": "§cYou have deactivated the protection!",
+    "protection.noPerms": "§cYou dont have permission to do that!",
+
+    "groupsystem.message.giveplayergroup": "§aYou gave §r§f{NAME} §athe Rank {GROUP}§a!",
+    "groupsystem.message.groupNotfound": "§cThis Rank was not found!",
+    "groupsystem.message.setnewRank": "§7Your group has been updated to {GROUP} §7!",
+
+    "lobby.profile.yourFriends": "Friends",
+    "lobby.profile.settings": "Settings",
+    "lobby.profile.yourClan": "Clan",
+    "lobby.profile.language": "Language",
+    "lobby.profile.party": "Party",
+    "lobby.profile.discordVerify": "Discord-Verify",
+    "lobby.profile.stats": "Stats",
+
+    "lobby.fly.enable": "§aActivated Fly",
+    "lobby.fly.disable": "§cDeactivated Fly!",
+
+    "unknown.command.message": "§cUnknown Command! Try /help for more!",
+
+    "verification.player.verificationKey": "§aYour Verify-Key: §r§f{KEY}",
+
+    "informations.player.uidesc": "§7Here are your personal Informations about you!",
+
+    "bedwars.break.yourBed": "§cYou can't break your own bed!",
+    "bedwars.message.breakBed": "§cThe Bed from {TEAM} §cwas destroyed by §r§f{PLAYER}",
+    "bedwars.already.break": "§cThe Bed was already destroyed!",
+    "bedwars.message.winPlayer": "§aThe Team §7{TEAM} §ahas won the Round!",
+
+    "not.enough.resources": "§cYou dont have enough Resources!",
+
+    "coins.command.message": "§7You has currently §e{COINS}§7 Coins",
+
+    "dailyreward.claimed.success": "§aYou has successfully claimed your Daily Reward!",
+    "dailyreward.already.claimed": "§cYou can get your reward again on §e{NEXT}§8.",
+
+    "FriendSystem.ui.button.listFriends": "§7List of your Friends",
+    "FriendSystem.ui.button.friendRequests": "§7Friendrequests\n§e{COUNT}",
+    "FriendSystem.ui.button.addFriend": "§eAdd §7Friend",
+    "FriendSystem.ui.button.settings": "§7Settings",
+    "FriendSystem.send.friendRequest": "§7You has sent a §efriend request §7to §r§f{TO} §7!",
+    "FriendSystem.received.friendRequest": "§7You have received a §efriend request §7from §r§f{BY}",
+    "FriendSystem.error": "§cYou can't add yourself as friend.",
+    "FriendSystem.already.send": "§cYou have already sent an Friend request to this player",
+    "FriendSystem.already.yourFriend": "§cThis player is already your friend.",
+    "FriendSystem.player.notExist": "§cThis player don't exists."
+  }
+}
