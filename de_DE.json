@@ -2,8 +2,8 @@
   "name": "Deutsch",
   "localeCode": "de_DE",
   "emoji": "🇩🇪",
-  "prefix": "§3Battle§bOase §r§f§7",
-  "contributors": ["ceepkev77", "SyntaxPE", "ceepkev77"],
+  "prefix": "§eBattle§6Unity §r§f§7",
+  "contributors": ["ceepkev77", "SyntaxPE"],
   
   "values": {
     "LanguageSystem.change": "{PREFIX}&aDeine Sprache wurde geändert!",
