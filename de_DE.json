@@ -80,6 +80,6 @@
     "FriendSystem.already.yourFriend": "§cDieser Spieler ist bereits dein Freund.",
     "FriendSystem.player.notExist": "§cDieser Spieler existiert nicht.",
 
-    "": ""
+    "test": "hallo &e{0}"
   }
 }
